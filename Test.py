@@ -7,10 +7,3 @@ mul=a*b
 
 print(add)
 print(sub)
-
-
-
-1234
-
-
-3577
