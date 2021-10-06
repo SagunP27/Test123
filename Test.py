@@ -8,7 +8,7 @@ mul=a*b
 
 print(add)
 print(sub)
-abc
-1234
-ghj
-3576
+abcde
+12345
+mnopo
+35777
