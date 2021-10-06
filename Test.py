@@ -5,12 +5,12 @@ add=a+b
 sub=a-b
 mul=a*b
 
-
 print(add)
 print(sub)
 
 
-abcde
-12345
-mnopo
-35777
+
+1234
+
+
+3577
