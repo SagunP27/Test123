@@ -8,6 +8,8 @@ mul=a*b
 
 print(add)
 print(sub)
+
+
 abcde
 12345
 mnopo
